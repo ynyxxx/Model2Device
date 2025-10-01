@@ -15,7 +15,7 @@ The LLM-IoT Protocol provides a dynamic, scalable framework similar to the Model
 - **Standardized Device Interfaces**: Uniform JSON-RPC 2.0 endpoints across all devices
 - **Time-series Database Integration**: Historical data storage and aggregation
 - **LLM Tool Integration**: MCP-style tool definitions for natural language device control
-- **Scalable Architecture**: Supports 100,000+ concurrent devices
+- **Scalable Architecture**: Supports mutipile concurrent devices
 
 ## Use Cases
 
@@ -298,6 +298,4 @@ All schema examples in the documentation are based on these real sensors.
 - [TimescaleDB Documentation](https://docs.timescale.com/)
 ---
 
-**Version:** 1.0.0
-**Last Updated:** 2025-09-30
-**Schema Version:** 1.0.0
+**Last Updated:** 2025-10-1
