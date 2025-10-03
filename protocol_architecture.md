@@ -486,29 +486,3 @@ Execute commands on multiple devices:
 | Hardware Abstraction     | Not applicable               | Comprehensive schemas         |
 | Time-series Data         | Not supported                | Built-in database integration |
 
-## 10. Implementation Roadmap
-
-**Phase 1: Core Protocol (Weeks 1-4)**
-- JSON-RPC 2.0 implementation
-- Device registration and discovery
-- Basic telemetry ingestion
-
-**Phase 2: Data Layer (Weeks 5-8)**
-- Time-series database integration
-- Query engine
-- Schema validation
-
-**Phase 3: Real-time Features (Weeks 9-12)**
-- WebSocket support
-- MQTT broker integration
-- Subscription management
-
-**Phase 4: Advanced Features (Weeks 13-16)**
-- Batch operations
-- Custom method registration
-- LLM tool integration
-
-**Phase 5: Production Hardening (Weeks 17-20)**
-- Security audit
-- Performance optimization
-- Monitoring and observability
